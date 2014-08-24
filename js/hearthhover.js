@@ -149,7 +149,7 @@ cards = {
 "Pandaren Scout" : "https://s3.amazonaws.com/tempostorm/Pandaren_Scout.png",
 "Poultryizer" : "https://s3.amazonaws.com/tempostorm/Poultryizer.png",
 "Power Overwhelming" : "https://s3.amazonaws.com/tempostorm/Power_Overwhelming.png",
-"Power Word: Shield" : "https://s3.amazonaws.com/tempostorm/Power_Word:_Shield.png",
+"Power Word: Shield" : "https://s3.amazonaws.com/tempostorm/Power_Word%3A_Shield.png",
 "Redemption" : "https://s3.amazonaws.com/tempostorm/Redemption.png",
 "Repair Bot" : "https://s3.amazonaws.com/tempostorm/Repair_Bot.png",
 "Repentance" : "https://s3.amazonaws.com/tempostorm/Repentance.png",
